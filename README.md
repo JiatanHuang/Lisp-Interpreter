@@ -24,9 +24,9 @@
 #### Command line arguments. 
 #### The Read-Evaluate-Print-Loop. 
 
-####Exceptions.                                                                            
+#### Exceptions.                                                                            
            
  - Evaluator.EvaluatorError s
-                                                                           Parser.            Can'tP                    arse s
-Printer.BadThing                                                     
-Any other exception                                                                                         
+ - Parser. Can'tParse s
+ - Printer.BadThing                                                     
+ - Any other exception                                                                                         
